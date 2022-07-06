@@ -1,0 +1,61 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: black;
+	font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.nav {
+	color: white;
+	display: flex;
+	margin-top: 90px;
+	margin-left: 100px;
+}
+
+.news {
+	margin-top: 51px;
+	margin-left: 100px;
+}
+
+.news li{
+	width: 1400px;
+	height: 450px;
+	border: 2px solid white;
+	display: flex;
+	margin-bottom: 50px;
+
+}
+
+.news-name {
+	margin-left: 387px;
+}
+
+.news img {
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+
+}
+
+.news p {
+	margin-top: 110px;
+	color: white;
+	width: 962px;
+}
